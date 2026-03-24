@@ -6,8 +6,6 @@
 ### 👨‍💻 All Projects  
 - Available at: [techdeepanshu.vercel.app](https://techdeepanshu.vercel.app/)
 
-### 📝 Blog  
-- Regularly writing articles at: [techchauhan.vercel.app/blog]([https://techchauhan.vercel.app/posts](https://techchauhan.vercel.app/blog))
 
 ### 💬 Expertise  
 - **Android Development**  
