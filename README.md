@@ -4,7 +4,7 @@
 - **keeping Secret 🤫**
 
 ### 👨‍💻 All Projects  
-- Available at: [techchauhan.vercel.app](https://techchauhan.vercel.app)
+- Available at: [techchauhan.vercel.app](https://techdeepanshu.vercel.app/)
 
 ### 📝 Blog  
 - Regularly writing articles at: [techchauhan.vercel.app/blog]([https://techchauhan.vercel.app/posts](https://techchauhan.vercel.app/blog))
