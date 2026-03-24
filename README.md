@@ -43,17 +43,17 @@
 
 ### 🔝 Top Languages  
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=techchauhan&show_icons=true&locale=en&layout=compact&theme=radical" alt="techchauhan's Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Deepanshu9045&show_icons=true&locale=en&layout=compact&theme=radical" alt="techchauhan's Top Languages" />
 </p>
 
 ### 🚀 Profile Stats  
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=techchauhan&show_icons=true&locale=en&theme=radical" alt="techchauhan's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Deepanshu9045&show_icons=true&locale=en&theme=radical" alt="techchauhan's GitHub Stats" />
 </p>
 
 ### 🔥 Streak Stats  
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techchauhan&theme=radical" alt="techchauhan's GitHub Streak Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Deepanshu9045&theme=radical" alt="techchauhan's GitHub Streak Stats" />
 </p>
 
 
