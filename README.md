@@ -48,12 +48,12 @@
 
 ### 🚀 Profile Stats  
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Deepanshu9045&show_icons=true&locale=en&theme=radical" alt="techchauhan's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Deepanshu9045&show_icons=true&locale=en&theme=radical" alt="Deepanshu9045's GitHub Stats" />
 </p>
 
 ### 🔥 Streak Stats  
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Deepanshu9045&theme=radical" alt="techchauhan's GitHub Streak Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Deepanshu9045&theme=radical" alt="Deepanshu9045's GitHub Streak Stats" />
 </p>
 
 
@@ -66,9 +66,8 @@
 
 ## 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/rishab-chauhan-149b65218/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://x.com/techchauhan_)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge)](https://techchauhan.vercel.app/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/deepanshu-rajput-086072270/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge)](https://techdeepanshu.vercel.app/)  
 
 ---
 
