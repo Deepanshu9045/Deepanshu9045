@@ -1,8 +1,5 @@
 # 👋 Welcome to My Profile!
 
-### 🔭 Currently Working On  
-- **keeping Secret 🤫**
-
 ### 👨‍💻 All Projects  
 - Available at: [techdeepanshu.vercel.app](https://techdeepanshu.vercel.app/)
 
