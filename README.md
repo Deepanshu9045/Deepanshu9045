@@ -43,7 +43,7 @@
 
 ### 🔝 Top Languages  
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Deepanshu9045&show_icons=true&locale=en&layout=compact&theme=radical" alt="techchauhan's Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Deepanshu9045&show_icons=true&locale=en&layout=compact&theme=radical" alt="Deepanshu9045's Top Languages" />
 </p>
 
 ### 🚀 Profile Stats  
