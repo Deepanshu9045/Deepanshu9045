@@ -70,9 +70,10 @@
 
 ## 🏆 Achievements
 
-- 🎖️ **2nd Prize** at Science Exhibition - Radar Making using UNO  
-- 🏆 **Java Excellence Certificate** from Coding Ninjas  
-- 🌟 Recognized at events like **Devfest 2024 at Gwalior** and **Hackhound 2.0 at SRM University**  
+- 🏆 **First Prize Winner** – AI Poster Competition
+      Turned a self-chosen Artificial Intelligence concept into a visually compelling and award-winning poster.
+- 🏅 **Gold Medalist (Twice)** – College 2nd Topper
+      Honored with the Gold Medal on two occasions for outstanding academic performance and securing the second rank.
 - 👏 Certifications from Microsoft, GitHub, HackerRank, and more  
 
 ## 🤝 Let's Connect!
