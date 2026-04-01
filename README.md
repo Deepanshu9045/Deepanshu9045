@@ -71,9 +71,9 @@
 ## 🏆 Achievements
 
 - 🏆 **First Prize Winner** – AI Poster Competition
-      Turned a self-chosen Artificial Intelligence concept into a visually compelling and award-winning poster.
+      Turned a self-chosen **Artificial Intelligence** concept into a visually compelling and award-winning poster.
 - 🏅 **Gold Medalist (Twice)** – College 2nd Topper
-      Honored with the Gold Medal on two occasions for outstanding academic performance and securing the second rank.
+      Honored with the **Gold Medal** on two occasions for outstanding academic performance and securing the second rank.
 - 👏 Certifications from Microsoft, GitHub, HackerRank, and more  
 
 ## 🤝 Let's Connect!
