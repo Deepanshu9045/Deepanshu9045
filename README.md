@@ -41,19 +41,30 @@
 
 ## 📈 GitHub Stats
 
-### 🔝 Top Languages  
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Deepanshu9045&show_icons=true&locale=en&layout=compact&theme=radical" alt="Deepanshu9045's Top Languages" />
+### 🔝 Top Languages
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deepanshu9045&theme=radical" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Deepanshu9045&theme=radical" alt="Top Languages by Commit" />
 </p>
 
-### 🚀 Profile Stats  
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Deepanshu9045&show_icons=true&locale=en&theme=radical" alt="Deepanshu9045's GitHub Stats" />
+### 🚀 Profile Stats
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Deepanshu9045&theme=radical" alt="GitHub Stats" />
 </p>
 
-### 🔥 Streak Stats  
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Deepanshu9045&theme=radical" alt="Deepanshu9045's GitHub Streak Stats" />
+### 🔥 Activity Details
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepanshu9045&theme=radical" alt="Profile Details" />
+</p>
+
+### 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Deepanshu9045&theme=radical" alt="GitHub Streak Stats" />
+</p>
+
+### 📊 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepanshu9045&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
 
 
