@@ -40,7 +40,7 @@
 
 ### 🔝 Top Languages
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deepanshu9045&theme=radical" alt="Top Languages by Repo"  &random=1/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deepanshu9045&theme=radical" alt="Top Languages by Repo" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Deepanshu9045&theme=radical" alt="Top Languages by Commit" />
 </p>
 
